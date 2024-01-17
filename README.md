@@ -15,7 +15,7 @@ Si tienes preguntas o quieres colaborar en algún proyecto, estaré encantado de
 
 <a href="https://www.instagram.com/d00er.art/">
     <div class="container">
-        <image src="./readme_data/img/instagram.png" alt="instagram logo">
+        <image src="./readme_data/img/instagram.png" alt="">
         <h4>INSTAGRAM</h4>
     </div>
     
