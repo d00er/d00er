@@ -7,17 +7,43 @@
 img{
     width: 50px;
     height:50px;
-}    
+}   
+
+
 a{
     display: flex;
     align-items: center;
     justify-content: center;
+    background-color: rgb(219, 202, 202);
+    margin: 0px 670px 0px 670px;
+    border-radius: 20px;
+    color: rgb(23, 33, 58);
+    filter:drop-shadow(3px 3px rgb(87, 66, 48));
+    
 }
 a:hover{
     text-decoration: none;
+    border-radius: 25px;
+    background-color: rgb(238, 209, 199);
+    color: rgb(48, 40, 30);
+    filter:drop-shadow(6px 6px rgb(87, 66, 48));
 }
 h4{
     padding-bottom: 10px;
     margin-left: 15px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
+.container:hover{
+    filter:drop-shadow(2px 2px rgb(202, 197, 192));
+    color: rgb(35, 49, 83);
+    font-weight: bold;
+}
+.container{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
 
